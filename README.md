@@ -6,3 +6,4 @@ Implementasikan Effect API untuk menampilkan Navigation Drawer dan Snackbar deng
 - Menggunakan drawerState untuk membuka, menutup, dan mengetahui state Navigation Drawer.
 - Menggunakan rememberCoroutineScope untuk menjalankan suspend function open() dan close() dari drawerState.
 - Menggunakan Effect API seperti rememberUpdatedState, SideEffect, dan DisposableEffect untuk meng-override fungsi onBackPressed.
+- Membuat State Holder untuk menangani aksi pada Navigation Drawer
